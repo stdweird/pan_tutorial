@@ -1,2 +1,3 @@
 # pan_tutorial
-Tutorial for pan
+
+Tutorial for pan templates
